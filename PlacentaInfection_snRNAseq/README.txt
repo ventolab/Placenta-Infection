@@ -1,6 +1,6 @@
 README
 
-This folder contains the scripts to analyse the single-nuclie RNAseq data.
+This folder contains the scripts to analyse the single-nuclei RNAseq data.
 
 1) data_integration: scripts to read, integrate and annotate the data.
 2) diffGeneExpression: scripts to run differential expression analysis.
