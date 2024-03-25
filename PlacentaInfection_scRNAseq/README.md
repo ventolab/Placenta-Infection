@@ -8,3 +8,4 @@ The order to run this analysis is:
 3) `cellPhoneDB`: scripts to run cellphoneDB v4.
 4) `plots_forFigures`: scripts to generate most of the plots included in the article's Figures.
 5) `PBMC_10k`: scripts to analyse the 10k PBMCs dataset from 10x Genomics.
+6) `luminex`: analysis of luminex data (protein levels) from supernatant cytokines.
